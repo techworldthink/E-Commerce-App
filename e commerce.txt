@@ -1,0 +1,13 @@
+npx express-generator --hbs
+npm install 
+npm install nodemon -g
+
+
+node bin/www
+
+
+npm install express-handlebars
+
+npm install express-fileupload
+
+npm install mongodb
